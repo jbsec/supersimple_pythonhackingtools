@@ -1,0 +1,12 @@
+Hello Github User!
+
+Thank you for downloading my ethical hacking Python toolkit!
+
+I have made these tools as easy as possible to understand, you can
+review or make changes to the repository if you've got ideas for changes.
+
+DISCLAIMER:
+
+Please do not misuse the tools in this repo for illegal activites or bad hacking, I 
+do not take responsiblity for any problems caused by the users who use these
+scripts. 
